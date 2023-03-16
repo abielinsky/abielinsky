@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Abiel</h1>
 - 🌱 I’m currently learning **Software Development**
 
