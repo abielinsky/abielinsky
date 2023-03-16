@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abiel</h1>
 - 🌱 I’m currently learning **Software Development**
+- [![Skills](https://img.shields.io/badge/Languages%20and%20Tools-Bootstrap%20%7C%20C%2B%2B%20%7C%20CSS3%20%7C%20HTML5%20%7C%20Java%20%7C%20JavaScript%20%7C%20Linux%20%7C%20MongoDB%20%7C%20MySQL%20%7C%20PHP-blue)](#languages-and-tools)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/abielinsky](https://github.com/abielinsky)
 
