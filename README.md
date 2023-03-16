@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Abiel</h1>
  
-- 🌱 I’m currently learning **Software Development** Studying Computer Science at [DKIT Dundalk Ireland]
+- 🌱 I’m currently Studying Computer Science at [DKIT Dundalk Ireland]
 - ([https://youruniversity.edu](https://www.dkit.ie/))
 - 💻 Working on various projects.
 - 👨‍💻 All of my projects are available at [https://github.com/abielinsky](https://github.com/abielinsky)
