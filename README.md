@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abiel</h1>
-- 🌱 I’m currently learning **Software Development**
-
+ <h1 align="center">Hi 👋, I'm Abiel</h1>
+ 
+- 🌱 I’m currently learning **Software Development** Studying Computer Science at [DKIT Dundalk Ireland]([https://youruniversity.edu](https://www.dkit.ie/))
+- 💻 Working on various projects.
 - 👨‍💻 All of my projects are available at [https://github.com/abielinsky](https://github.com/abielinsky)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **abiel1402@4gmail.com**
-
+- 💬 Ask me about anything, I'm happy to help!
+- 📫 Reach me at [abiel1402@4gmail.com](mailto:abiel1402@4gmail.com)
 - 📄 Know about my experiences [https://www.linkedin.com/in/abiel-lopez-6a7495181/](https://www.linkedin.com/in/abiel-lopez-6a7495181/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,15 +46,10 @@
 
 
 
-### Hi there, I'm [Your Name](https://yourwebsite.com) 👋
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50%"/>
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20%"/>
 
-- 🎓 Studying Computer Science at [Your University](https://youruniversity.edu)
-- 💻 Working on various projects using Python and JavaScript
-- 🌱 Learning about Machine Learning and Web Development
-- 💬 Ask me about anything, I'm happy to help!
-- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com)
+
 
 **Languages and Tools:**  
 
