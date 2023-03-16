@@ -45,3 +45,33 @@
 </picture>
 
 
+
+
+### Hi there, I'm [Your Name](https://yourwebsite.com) 👋
+
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50%"/>
+
+- 🎓 Studying Computer Science at [Your University](https://youruniversity.edu)
+- 💻 Working on various projects using Python and JavaScript
+- 🌱 Learning about Machine Learning and Web Development
+- 💬 Ask me about anything, I'm happy to help!
+- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com)
+
+**Languages and Tools:**  
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
+</p>
+
+</br>
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
