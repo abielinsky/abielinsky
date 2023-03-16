@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Abiel</h1>
   
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="15%" height="15%"/>
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25%" height="25%"/>
  
 - 🌱 I’m currently Studying Computer Science at [DKIT Dundalk Ireland]
 - ([https://youruniversity.edu](https://www.dkit.ie/))
