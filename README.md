@@ -1,4 +1,6 @@
  <h1 align="center">Hi 👋, I'm Abiel</h1>
+  
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="5%" height="5%"/>
  
 - 🌱 I’m currently Studying Computer Science at [DKIT Dundalk Ireland]
 - ([https://youruniversity.edu](https://www.dkit.ie/))
@@ -8,7 +10,6 @@
 - 📫 Reach me at [abiel1402@4gmail.com](mailto:abiel1402@4gmail.com)
 - 📄 Know about my experiences [https://www.linkedin.com/in/abiel-lopez-6a7495181/](https://www.linkedin.com/in/abiel-lopez-6a7495181/)
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20%" height="20%"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
